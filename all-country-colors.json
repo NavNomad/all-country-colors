@@ -1,0 +1,362 @@
+{
+  "FRA": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "DEU": {
+    "region": "Europe",
+    "color": "#33B30E"
+  },
+  "ITA": {
+    "region": "Europe",
+    "color": "#33C41F"
+  },
+  "ESP": {
+    "region": "Europe",
+    "color": "#33D530"
+  },
+  "POL": {
+    "region": "Europe",
+    "color": "#33E641"
+  },
+  "ROU": {
+    "region": "Europe",
+    "color": "#33F752"
+  },
+  "NLD": {
+    "region": "Europe",
+    "color": "#340863"
+  },
+  "BEL": {
+    "region": "Europe",
+    "color": "#341974"
+  },
+  "GRC": {
+    "region": "Europe",
+    "color": "#342A85"
+  },
+  "CZE": {
+    "region": "Europe",
+    "color": "#343B96"
+  },
+  "PRT": {
+    "region": "Europe",
+    "color": "#344CA7"
+  },
+  "SWE": {
+    "region": "Europe",
+    "color": "#345DB8"
+  },
+  "HUN": {
+    "region": "Europe",
+    "color": "#346EC9"
+  },
+  "AUT": {
+    "region": "Europe",
+    "color": "#347FDA"
+  },
+  "CHE": {
+    "region": "Europe",
+    "color": "#3490EB"
+  },
+  "BGR": {
+    "region": "Europe",
+    "color": "#34A1FC"
+  },
+  "DNK": {
+    "region": "Europe",
+    "color": "#34B30D"
+  },
+  "FIN": {
+    "region": "Europe",
+    "color": "#34C41E"
+  },
+  "SVK": {
+    "region": "Europe",
+    "color": "#34D52F"
+  },
+  "NOR": {
+    "region": "Europe",
+    "color": "#34E640"
+  },
+  "CHN": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "IND": {
+    "region": "Asia",
+    "color": "#FFD877"
+  },
+  "IDN": {
+    "region": "Asia",
+    "color": "#FFE988"
+  },
+  "PAK": {
+    "region": "Asia",
+    "color": "#FFFA99"
+  },
+  "BGD": {
+    "region": "Asia",
+    "color": "#000BAA"
+  },
+  "JPN": {
+    "region": "Asia",
+    "color": "#001CBB"
+  },
+  "PHL": {
+    "region": "Asia",
+    "color": "#002DCC"
+  },
+  "VNM": {
+    "region": "Asia",
+    "color": "#003EDD"
+  },
+  "TUR": {
+    "region": "Asia",
+    "color": "#004FEE"
+  },
+  "IRN": {
+    "region": "Asia",
+    "color": "#0060FF"
+  },
+  "THA": {
+    "region": "Asia",
+    "color": "#007210"
+  },
+  "MMR": {
+    "region": "Asia",
+    "color": "#008321"
+  },
+  "KOR": {
+    "region": "Asia",
+    "color": "#009432"
+  },
+  "IRQ": {
+    "region": "Asia",
+    "color": "#00A543"
+  },
+  "AFG": {
+    "region": "Asia",
+    "color": "#00B654"
+  },
+  "SAU": {
+    "region": "Asia",
+    "color": "#00C765"
+  },
+  "UZB": {
+    "region": "Asia",
+    "color": "#00D876"
+  },
+  "MYS": {
+    "region": "Asia",
+    "color": "#00E987"
+  },
+  "YEM": {
+    "region": "Asia",
+    "color": "#00FA98"
+  },
+  "NPL": {
+    "region": "Asia",
+    "color": "#010BA9"
+  },
+  "NGA": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "ETH": {
+    "region": "Africa",
+    "color": "#4FF7BE"
+  },
+  "EGY": {
+    "region": "Africa",
+    "color": "#5008CF"
+  },
+  "COD": {
+    "region": "Africa",
+    "color": "#5019E0"
+  },
+  "TZA": {
+    "region": "Africa",
+    "color": "#502AF1"
+  },
+  "ZAF": {
+    "region": "Africa",
+    "color": "#503C02"
+  },
+  "KEN": {
+    "region": "Africa",
+    "color": "#504D13"
+  },
+  "UGA": {
+    "region": "Africa",
+    "color": "#505E24"
+  },
+  "DZA": {
+    "region": "Africa",
+    "color": "#506F35"
+  },
+  "SDN": {
+    "region": "Africa",
+    "color": "#508046"
+  },
+  "MAR": {
+    "region": "Africa",
+    "color": "#509157"
+  },
+  "MOZ": {
+    "region": "Africa",
+    "color": "#50A268"
+  },
+  "GHA": {
+    "region": "Africa",
+    "color": "#50B379"
+  },
+  "AGO": {
+    "region": "Africa",
+    "color": "#50C48A"
+  },
+  "CIV": {
+    "region": "Africa",
+    "color": "#50D59B"
+  },
+  "MDG": {
+    "region": "Africa",
+    "color": "#50E6AC"
+  },
+  "CMR": {
+    "region": "Africa",
+    "color": "#50F7BD"
+  },
+  "NER": {
+    "region": "Africa",
+    "color": "#5108CE"
+  },
+  "BFA": {
+    "region": "Africa",
+    "color": "#5119DF"
+  },
+  "MLI": {
+    "region": "Africa",
+    "color": "#512AF0"
+  },
+  "USA": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "BRA": {
+    "region": "America",
+    "color": "#FF8D8D"
+  },
+  "MEX": {
+    "region": "America",
+    "color": "#FF9E9E"
+  },
+  "COL": {
+    "region": "America",
+    "color": "#FFAFAF"
+  },
+  "ARG": {
+    "region": "America",
+    "color": "#FFC0C0"
+  },
+  "CAN": {
+    "region": "America",
+    "color": "#FFD1D1"
+  },
+  "PER": {
+    "region": "America",
+    "color": "#FFE2E2"
+  },
+  "VEN": {
+    "region": "America",
+    "color": "#FFF3F3"
+  },
+  "CHL": {
+    "region": "America",
+    "color": "#000504"
+  },
+  "ECU": {
+    "region": "America",
+    "color": "#001615"
+  },
+  "GTM": {
+    "region": "America",
+    "color": "#002726"
+  },
+  "CUB": {
+    "region": "America",
+    "color": "#003837"
+  },
+  "HTI": {
+    "region": "America",
+    "color": "#004948"
+  },
+  "BOL": {
+    "region": "America",
+    "color": "#005A59"
+  },
+  "DOM": {
+    "region": "America",
+    "color": "#006B6A"
+  },
+  "HND": {
+    "region": "America",
+    "color": "#007C7B"
+  },
+  "PRY": {
+    "region": "America",
+    "color": "#008D8C"
+  },
+  "NIC": {
+    "region": "America",
+    "color": "#009E9D"
+  },
+  "SLV": {
+    "region": "America",
+    "color": "#00AFAE"
+  },
+  "CRI": {
+    "region": "America",
+    "color": "#00C0BF"
+  },
+  "AUS": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "PNG": {
+    "region": "Oceania",
+    "color": "#8B80EA"
+  },
+  "NZL": {
+    "region": "Oceania",
+    "color": "#8B91FB"
+  },
+  "FJI": {
+    "region": "Oceania",
+    "color": "#8BA30C"
+  },
+  "SLB": {
+    "region": "Oceania",
+    "color": "#8BB41D"
+  },
+  "WSM": {
+    "region": "Oceania",
+    "color": "#8BC52E"
+  },
+  "TON": {
+    "region": "Oceania",
+    "color": "#8BD63F"
+  },
+  "VUT": {
+    "region": "Oceania",
+    "color": "#8BE750"
+  },
+  "NRU": {
+    "region": "Oceania",
+    "color": "#8BF861"
+  },
+  "PLW": {
+    "region": "Oceania",
+    "color": "#8C0972"
+  }
+}
